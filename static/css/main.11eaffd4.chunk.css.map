@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css","webpack://src/components/sidePanel.css"],"names":[],"mappings":"AAAA,UACI,QACJ,CCFA,0BACI,uBACJ","file":"main.11eaffd4.chunk.css","sourcesContent":["body, html {\n    margin: 0;\n}",".MuiAccordionDetails-root {\n    display: block !important;\n}"]}
